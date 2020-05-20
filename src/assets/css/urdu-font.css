@@ -1,0 +1,25 @@
+/*@font-face {
+ font-family: Jameel Noori Nastaleeq;
+	src: url('../JameelNooriNastaleeq/JameelNooriNastaleeq.ttf'), src: url('../JameelNooriNastaleeq/JameelNooriNastaleeq.eot');
+	src: url('../JameelNooriNastaleeq/JameelNooriNastaleeq.eot?#iefix') format("embedded-opentype"), url('../JameelNooriNastaleeq/JameelNooriNastaleeq.woff') format("woff"), url('../JameelNooriNastaleeq/JameelNooriNastaleeq.ttf')
+}*/
+
+/*@font-face {
+  font-family: Jameel Noori Nastaleeq;
+   src: url('../JameelNooriNastaleeq/JameelNooriNastaleeq.ttf'), src: url('../JameelNooriNastaleeq/JameelNooriNastaleeq.eot');
+   src: url('../JameelNooriNastaleeq/JameelNooriNastaleeq.eot?#iefix') format("embedded-opentype"), url('../JameelNooriNastaleeq/JameelNooriNastaleeq.woff') format("woff"), url('../JameelNooriNastaleeq/JameelNooriNastaleeq.ttf')
+ }
+ 
+
+@font-face {
+  font-family: 'NotoNastaliqUrdu';
+  src: url('../NotoNastaliqUrdu-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}*/
+
+@font-face {
+  font-family: NotoNastaliqUrdu;
+   src: url('../NotoNastaliqUrdu/NotoNastaliqUrdu.ttf'), src: url('../NotoNastaliqUrdu/NotoNastaliqUrdu.eot');
+   src: url('../NotoNastaliqUrdu/NotoNastaliqUrdud41d.eot?#iefix') format("embedded-opentype"), url('../NotoNastaliqUrdu/NotoNastaliqUrdu.woff') format("woff"), url('../NotoNastaliqUrdu/NotoNastaliqUrdu.ttf')
+ }
